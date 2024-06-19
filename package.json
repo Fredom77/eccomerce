@@ -11,8 +11,9 @@
   "description": "",
   "devDependencies": {
     "@eslint/compat": "^1.1.0",
-    "eslint": "^9.5.0",
-    "eslint-plugin-react": "^7.34.2",
     "globals": "^15.6.0"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.23.1"
   }
 }
